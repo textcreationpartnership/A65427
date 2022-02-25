@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welch-mans complements, or, The true manner how Shinkin woed his sweet-heart Maudlin after his return form Kenton Battaile also fair Maudlins reply and answer to all Skinkins Welch complements full of merry wit and pleasant mirth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65427</idno>
+            <idno type="STC">Wing W1324</idno>
+            <idno type="STC">ESTC R4374</idno>
+            <idno type="EEBO-CITATION">12137546</idno>
+            <idno type="OCLC">ocm 12137546</idno>
+            <idno type="VID">54786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E91, no 30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welch-mans complements, or, The true manner how Shinkin woed his sweet-heart Maudlin after his return form Kenton Battaile also fair Maudlins reply and answer to all Skinkins Welch complements full of merry wit and pleasant mirth.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54786:1" rendition="simple:additions"/>
+            <p>The Welch-Mans COMPLEMENTS: OR, The true manner how <hi>Shinkin</hi> woed his Sweet-heart <hi>Maudlin</hi> after his return from KENTON Battaile.</p>
+            <p>Alſo fair <hi>Maudlins</hi> Reply and anſwer to all <hi>Shinkins</hi> Welch Complements, full of merry wit and pleaſant mirth.</p>
+            <figure>
+               <sp>
+                  <p>I Thank you Welch Ienken</p>
+               </sp>
+               <sp>
+                  <p>God save you sweet mist<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is.</p>
+               </sp>
+            </figure>
+            <p>Printed at London, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54786:2"/>
+            <head>The Welch-Mans Complements, or the true manner how <hi>Shinkin</hi> wooed his Sweet-heart <hi>Maudlin</hi> after his returne from Kenton battle, &amp;c.</head>
+            <sp>
+               <p>Sweet <hi>Maudlin.</hi>
+               </p>
+               <p>
+                  <seg rend="decorInit">A</seg>Fter her return from Edg-hill, which her may ſpeake with griefe of heart, her chaunced to caſt her eyes on your incomparable be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uties, by whoſe power<g ref="char:EOLhyphen"/>full influences her was more wounded and killed and ſlaine, then her was at Kenton battaile, and her did find that the ſword wounds gently, but Love hath no mercy when it doth once ſtrike the heart with deep affection, ſo that her can get no Surgeons in Hoſpitals or any where elſe, but only the favour of her beloved <hi>Maud<g ref="char:EOLhyphen"/>lin,</hi> muſt as it is the cauſe, be alſo the cure of all her griefe and forrowes. For when her firſt beheld her, your haire (faire <hi>Maudlin</hi>) ſeemed to re<g ref="char:EOLhyphen"/>ſemble the golden ſtrings on her Harp, your eyes ſhined like bright ſtars, and in your cheekes appeared more Roſes and Lyllies then there be leek<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in her gardens in Wales; whereupon, her was fully reſolved to make you the Miſtris of her affections, and after many conſiderations of her own e<g ref="char:EOLhyphen"/>ſtate, and how fit a match you would be for her in the honeſt wayes of ma<g ref="char:EOLhyphen"/>trimony being a matter of mony; for now her will ſtand upon her high tearms, having been a Souldier: her thought with good audacities and boldneſſe, to utter her mind in as good languages as her could, deſiring her not to look upon her with her Welſh frowns (for frowns will ſpoile her beauties) but with a ſmiling countenance behold the dolours and griefes which <hi>Shinkin</hi> ſuſtaines for her ſakes, and give her ſuch a favoura<g ref="char:EOLhyphen"/>ble anſwer that her may be comforted, and cheriſh hopes and aſſurances to gaine her favour: will her, love <hi>Shinkin,</hi> what do her ſay?</p>
+            </sp>
+            <sp>
+               <stage>
+                  <hi>Maudlins</hi> flouting reply to Mr. <hi>Shinkin.</hi>
+               </stage>
+               <p>MAſter <hi>Shinkin,</hi> I perceive you can flatter exceeding well, but my eyes being full of my own wants, can ſee nothing in mee worthy your affection. The War is kinder then I can prove, from whence by the nimble agility of your feet you returned ſafe and ſound, and pitty it were that the ſword ſhould devour ſo brave a Gentleman as you, I mean when
+<pb facs="tcp:54786:2"/>you are well apparelld; your folly, not my beauty hath wounded you, if Love do occaſion your ſickneſſe, wholſome kitchin phyſick will cure you, eſpecially Leek-pottage, for leekes bee perfectly ripe on St. <hi>Taffies</hi> day, which will cleanſe and purifie your blood, and purge out the wanton hu<g ref="char:EOLhyphen"/>mours that diſturb your brains. Do not curſe your ſelfe and me in welſh, if I refuſe your offer of marriage: for your ſuite purchaſed in Long-lane, and your mountainous language, ſuch as Goates would utter if they could ſpeak, cannot move me: therefore be patient in your new wooing apparell, for your love is bootleſſe becauſe you come in ſtockings, and therefore trouble not your brain with ſtudying hard words and ſpeeches, to de<g ref="char:EOLhyphen"/>monſtrate your affection, Welch-men were never true.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin</speaker>
+               <stage>ſcratching her head to quicken her invention, made this Reply to her Sweet-heart <hi>Maudlin.</hi>
+               </stage>
+               <p>HOw! what vile indignities does her uſe upon her true Brittaines. Sweet <hi>Maudlin,</hi> if her do diſtruſt her fidelities or any other abili<g ref="char:EOLhyphen"/>ties, her ſhall find her as true as her ſmock to her white pellies, or he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> backſide, and her will ſtick unto her in all fortunes and couragious mag<g ref="char:EOLhyphen"/>namities, fight for her as long as her Welch hook holds, let her but grant her affections, and make <hi>Shinkin</hi> happy in the fruition of her Love, which her ſhall eſteem above all her dirty cattle and her lands and houſes in her poſſeſſion in Wales.</p>
+            </sp>
+            <sp>
+               <stage>
+                  <hi>Maudlins</hi> mocking anſwer to <hi>Shinkin.</hi>
+               </stage>
+               <p>PArdon my raſh words if they have offended, I have read of the welch magnanimity in old ſtories, but could never underſtand it without book, it was reported unto me for certaine, that your crowns were ter<g ref="char:EOLhyphen"/>ribly crackt at Kenton field, and I love you better then to have you bea<g ref="char:EOLhyphen"/>ten againe, or to ſee you throw away your arms, and confide in your legs for my ſake: Neither will I put you to that ſervice which my ſmock doth under-goe, ſince your ſtrong breath contaminated, doth render you un<g ref="char:EOLhyphen"/>worthy to kiſſe my back-ſide: As for your cattle I beleeve they are white, ſome of them grey, and ſome with a black liſt down their backs; you have called them in Welch, <hi>Moabites,</hi> and <hi>Nittibites,</hi> and graze only in your boſome; and thoſe great pig houſes whereof you boaſt are the buildings of your welch conceits, and are indeed nothing but Caſtles in the Ayre.</p>
+            </sp>
+            <sp>
+               <stage>His anſwer, wherein <hi>Shinkin</hi> doth make long Proteſtations of her love, with many great and large promiſes.</stage>
+               <p>IF her doubt the words and affirmations of her affectionate ſervant <hi>Shinkin,</hi> let her trample down with her into Wales, her horſe would be as proud as her ſelfe to cary faire <hi>Maudlin</hi> behind her, or if her will
+<pb facs="tcp:54786:3"/>her ſhal ride before her, but that her wold not have the beaſt come betwixt her miſtris thighs, which place <hi>Shinkin</hi> only doth deſerve and merit: but if ſweet <hi>Maudlin</hi> would be pleaſed to guild over her ſublunary buildings in Wales with her preſence, her would then when her eye doth ſurvey her houſe and lands derived from her Anceſtors, beleeve all her reports to be verities and truth, and not coyned out of her braines as her Welſh Al<g ref="char:EOLhyphen"/>manacks &amp; other inventions by her lately produced, to keep people from talking of Treaſon againſt the King: for her hath in Wales great pig-hou<g ref="char:EOLhyphen"/>ſes, ſo that her may ride in at the door with her pike upon her ſhoulder, and great ponds round about behind her houſe, which are full of red her<g ref="char:EOLhyphen"/>rings and other good fiſh, eſpecially round and ſound trouts, and then her hath a number of Out-houſes in her back-ſide, beſides her Tennants doe pay her good pounds, ſhillings, and pence for their Farms which they hold under her, being the Lord of all the ſoyles and lands thereabouts, be<g ref="char:EOLhyphen"/>ſides her hath great ſtore of goats and young kidds, which her will bake in veniſon paſties, and <hi>Maudlin</hi> will ſay was excellent good meate, and for her goates, they yield her good milke to make her welſh cheeſe ſtrong and fat, and toaſt the better, &amp; from her ſheeps back her get good wool whereof her will make her petticoats to wear next her ſmocks, and her ſelfe jerkins and doublets of freeze; Her have tame fowl, as cocks, hens, geeſe, ducks, which walke about in her yards, and a Conny-burrough of her own on her back-ſide, but not ſo good as that which <hi>Maudlin</hi> hath on her for-ſide. And her is reſolved to give <hi>Maudlin</hi> all her lands, her houſes, her pig-houſes, her farms, all her goats, young kidds, and ſheepe, and all her Cockes and Cocke-geldings, her Hennes and all their egges with chickins in them, her geeſe and all her pretty ducks, nay, all her conies that ever her ſaw, felt, or underſtood, ſo that <hi>Shinkin</hi> may enjoy and poſſeſſe all h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r grounds and arables, and all her other commo<g ref="char:EOLhyphen"/>dities, her will not ſay coneys though, if <hi>Maudlin</hi> would be ſo pleaſed, her would convert her ſelf into any ſhapes and figures, and for her ſake become a Warriner in greene with a long ſtaffe on her ſhoulder, ſo that ſweete <hi>Maudlin</hi> would be the parke and the coney, for then her would be the cunny-catcher. Her crave pardon for her boldneſſe, and if her tongue have thrown out any raſh or lewd languages, her will plead her cauſe in kiſſes, and from Mrs. <hi>Maudlins</hi> ſweet lips obtaine a ſealed pardon, which her could hardly obtaine if her ſhould come before her Welch Judges for felonies. Thus her will give away all her hath, and her ſelfe, and all a<g ref="char:EOLhyphen"/>bout her, and make her ſelfe as poor as any Brittaine in Wales, that her may purchaſe the Love and affections of her deareſt <hi>Maudlin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> give her therefore her pray you ſome good kind anſwers that may comfort her deſpayrinng hearts as much as her own Country metheglin doth.</p>
+            </sp>
+            <pb facs="tcp:54786:3"/>
+            <sp>
+               <stage>
+                  <hi>Maudlins</hi> ſcoffing reply to his great promiſes and proteſtations, with ſome other jests.</stage>
+               <p>GOod <hi>Shinkin,</hi> I muſt deſire you not to bee offended, if I compare your long ſpeech unto your high mountains, the one is barren of graſſe, the other without wit or ſence: your promiſes are as long as your Welch miles, you know not what occaſion maids have ſometimes to ſtep out in<g ref="char:EOLhyphen"/>to a corner: and if I were not a Virgin, your long Orations would put me to much extreamity: your houſes in Wales <hi>(as I ſaid before)</hi> are no<g ref="char:EOLhyphen"/>thing I beleeve but caſtles in the ayre, and they ſmell ſo ſtrong of leekes and toaſted cheeſe, that the ſcent thereof would make me loath all your pig-houſes: And though your Welch N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ggs be beaſts of better carriage then yourſelfe; you ſhall not cary me like a cloake-bag behind you, and your welch Naggs are ſo ſmall of ſtature, the people ſeeing us ride through Country Towns, would thinke we rode double upon a hobby-horſe. And for your conies keep them you have, for you are like to get no more of me, though I beleeve you are an arrant cunny-catcher, therefore my an<g ref="char:EOLhyphen"/>ſwer is and muſt be, I cannot love you.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin</speaker>
+               <stage>uſes many other arguments and good ſound reaſons to perſwade <hi>Maudlin</hi> to love her and joyne with her in Matrimony.</stage>
+               <p>HOw! cannot <hi>her</hi> love <hi>Shinkin?</hi> call backe that word ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine, leſt it make <hi>her</hi> madde and out of <hi>her</hi> wits, becauſe her cannot obtain <hi>her</hi> deſires in <hi>her</hi> affections. Pray tell <hi>her Maudlin</hi> what was hinder her ap<g ref="char:EOLhyphen"/>probations and good wills to <hi>Shinkin,</hi> was <hi>her</hi> not born a Shentleman by many hundred deſcen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and derive her pedigrees from <hi>Adam,</hi> &amp; beyond too? and doth <hi>her</hi> not bear <hi>her</hi> Schutchions charged with three woodcocks to denote and ſignifie the great wiſedome of <hi>her</hi> families and Progeni<g ref="char:EOLhyphen"/>tors, from her <hi>Fore-fathers</hi> and <hi>Fore-mothers:</hi> and therefore if <hi>Maudlin</hi> would be pleaſed to joyn with <hi>her</hi> in <hi>matrimonies, her</hi> could not diſpa<g ref="char:EOLhyphen"/>rage <hi>her</hi> ſelfe, but <hi>her</hi> ſhould bring <hi>her</hi> a great deale of poſterities of <hi>her</hi> owne begetting, which ſhould bee all Shentlemen of Wales after <hi>her</hi> de<g ref="char:EOLhyphen"/>ceaſe, and <hi>her</hi> aſſure you <hi>Maudlin</hi> there was great differences betweene rude Cotidons and clownes and <hi>her</hi> Shentleman of Wales, for <hi>Shinkin</hi> though <hi>her</hi> ſay it, and may ſweare it, was bred up in all good educations &amp; qualities as well as <hi>her</hi> beſt Gentries: <hi>her</hi> can dance in as good meaſures and faſhions, and cut capers three yards above ground by the magnani<g ref="char:EOLhyphen"/>mities and agilities of her ſtrong back: and was take <hi>her</hi> Welch harp be<g ref="char:EOLhyphen"/>tween <hi>her</hi> leggs and play thereon ſuch ſweet Dittyes and madrigalls and true leſſons, as would raviſh <hi>her</hi> before <hi>her</hi> matrimonies, and if <hi>her</hi> could be ſo happy as to have <hi>Maudlin</hi> between her leggs, <hi>her</hi> would teach <hi>her</hi> a leſſon that ſhould exceed all pricke-ſong, and make <hi>her</hi> better harmony and muſick then all <hi>her</hi> harps could do, for <hi>her</hi> love no in<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>uments ſo
+<pb facs="tcp:54786:4"/>well as <hi>Maudlins,</hi> which <hi>her</hi> know how to ſtop and finger as well as the beſt muſitians in the whole world. Her would therefore deſire <hi>her</hi> to joyn with <hi>her</hi> in matrimonies, and <hi>her</hi> will play upon <hi>her</hi> inſtruments day night, if <hi>her</hi> would condiſcend to make marriages with <hi>her</hi> true love and affection: beſides, <hi>Skinkin</hi> hath many other qualities may induce you, dear <hi>Maudlin,</hi> to love <hi>her</hi> in all integrities: what ſay <hi>her</hi> now to <hi>her</hi> wooing argument and reaſons, <hi>Shinkin</hi> knows how to ſpeake in complements and ſtrong languages.</p>
+            </sp>
+            <sp>
+               <stage>
+                  <hi>Maudlins</hi> briefe, but very ſcoffing anſwer.</stage>
+               <p>IF <hi>Shinkin</hi> be a Gentleman, let him expreſſe it in generous qualities, I love not bragging, but perhaps <hi>Shinkin,</hi> that is all you have to ſhew to make you a Gentleman. Talk not to me of your coate, which perhaps may lye at the Brokers as well as your other apparrel doth, and for your arms, your leggs (as I heard, prov'd your beſt friends at Edg-hill) and for your skill on the Harpe, the beſt muſick that you would make me, would be ſilence, and ſo ſeem wiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>O be not ſo cruell and hard-hearted, ſweet Mrs. <hi>Maudlin,</hi> that phyſiognomy of yours promiſes better things. O that colour in thoſe cheeks which ſtrives to put down the ruby &amp; obſcure the roſe &amp; that for-head which ſhine like bacon-rine, whoſe crooked noſe which downe to <hi>her</hi> chinne doth bow, which will ſave <hi>her</hi> many a penny in buying of ſhoo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing-hornes when her wants them to pull on <hi>her</hi> ſhooes withall.</p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>Out you jeering Welſh theefe, I hate thy flattering words, I cannot endure thy face, much leſſe thy rude expreſſions; I am ſorry I have loſt ſo much time, and ſpent ſo much breath to anſwer thee in thy fooliſh propoſitions and queſtions.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>Her do owe <hi>her</hi> as many gratulations for <hi>her</hi> patience and fa<g ref="char:EOLhyphen"/>vour afforded <hi>her</hi> at this time in hearing <hi>her</hi> complements, as there be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai<g ref="char:EOLhyphen"/>cocks in <hi>Iune,</hi> and as many thanks as there be roſes in <hi>May.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>You are mighty fluent in your eloquent tongue; but for all your faire words you ſhall not make mee yield my ſelfe to your goatiſh deſires.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>Sweet <hi>Maudlin,</hi> her do honour the very ob-umbrations of <hi>her</hi> ſhoo-ties, <hi>her</hi> do reverence <hi>her</hi> very poſteriours, and would ſalute <hi>her</hi> be<g ref="char:EOLhyphen"/>hind and before, whenſoever <hi>her</hi> meet <hi>her,</hi> ſweete <hi>Maudlin:</hi> O Love and Peaſe-pottage and garlicke are three ſtrong things, <hi>her</hi> wil be alwaies her friend, and ſtand to <hi>her</hi> upon all occaſions, if her would but love her.</p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>I thinke ſo too if you had power; I doe imagine ſince you have loſt ſo much bloud as you told me you did at Kinton field, that you have nothing ſtanding but y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur eares: I believe you may cry three times ſo ho, before it wil ſtand once.</p>
+            </sp>
+            <pb facs="tcp:54786:4"/>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>Sweet <hi>Maudlin</hi> love <hi>her, and that without delay<g ref="char:punc">▪</g> And caſt not with thy crabbed looks, a proper man away.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>How, doe you call your ſelfe a proper man? by my troth Maſter <hi>Shinkin</hi> I ſee no ſuch matter about you, as either properneſſe or comlineſſe, I tel you plainly, I cannot fancy your perſon nor love your conditions.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>If <hi>her</hi> will but love <hi>her, her</hi> ſhall have all varieties that <hi>her</hi> heart can wiſh, and alſo ſorts of fowle and fiſh: As Duck, Mallard and Wood<g ref="char:EOLhyphen"/>cocks, Wigeons, and all dainty content; for fiſh, <hi>her</hi> have poor Shonn, Sprats, and Bloat-herrings, and Red-herrings with bells about their necks, <hi>her</hi> ſhall have good ſtore of Welch wine, as Perry and Cider ancient Cairiwhiblin and excellent Ale, <hi>her</hi> ſhall have a mountain of Coul-bobby, which is in plain En<g ref="char:EOLhyphen"/>gliſh good cheeze ready toſted at <hi>her</hi> commands, and a huge hill of ſheeze at <hi>her</hi> becks: new ſheeze as new as <hi>her</hi> moon: and old ſheeze as auncient as the Creation; ſuch ſheeze as is able to go alone: beſides <hi>her</hi> ſhall have raw ſheeze; then <hi>her</hi> ſhall have warm or toaſted ſheeze; then <hi>her</hi> ſhall have baked ſheeze, then fry'd ſheeze, then broyled cheeze, fod cheeze parboyl'd cheeze. &amp; ſtewed cheeze, all theſe <hi>her</hi> ſhall have if <hi>her</hi> will but love <hi>her:</hi> then <hi>her</hi> ſhall have <hi>her</hi> Welch Ambaſſador or her Welch Fidler every morning to bid good morrow to <hi>her</hi> ſweet <hi>Maudlin</hi> at <hi>her</hi> chamber-window.</p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>Good honeſt <hi>Shinkin</hi> for bear your earneſt ſuite of wooing; I tell you I cannot love, nor do I care for your company; nor doe I approve of any of thoſe things which are in your Countrey.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>O that <hi>her</hi> were any thing that <hi>her Maudlin</hi> did love: would <hi>her</hi> were a jackes, or <hi>her</hi> cloſe-ſtool, or her cloſe-ſtoole-pan; or the lock and key to her cloſe-ſtool, then her <hi>Maudlin</hi> would deſire <hi>her</hi> ſometimes: I would <hi>her</hi> were any thing, ſo <hi>her</hi> might enjoy <hi>her</hi> corpuſculum; then would <hi>her</hi> have a<g ref="char:EOLhyphen"/>bout with her <hi>Nunquam-Satis:</hi> O that ſweet Angels face of thine, fair <hi>Maud<g ref="char:EOLhyphen"/>lin</hi> hath ravelled me, I am enamelled with thy beautie; I am in love with thee over my high ſhooes: your face is more faire ſweet <hi>Maudlin,</hi> then <hi>Bro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> my faders cow; ô thoſe hawke eyes which twinckle like the ſeaven ſtarres in <hi>Lumbard-ſtreet;</hi> whoſe ivory teeth give light like the gloworme in a darke e<g ref="char:EOLhyphen"/>vening to <hi>Charles</hi> his wane, when <hi>her</hi> moon is in the flock-bed.</p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>Away with your cotten candle eloquence, I care not for your Calve-skin jeſts, there is nothing in you but fuſtian and bum-baſted comple<g ref="char:EOLhyphen"/>ments, full of froath and emptineſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>Good Mrs. <hi>Maudlin,</hi> graunt <hi>her</hi> but one thing, and then doe <hi>her</hi> pleaſures.</p>
+            </sp>
+            <sp>
+               <speaker>Maudlin,</speaker>
+               <p>What is that? I would do any thing to be rid of a fooliſh, idle, Welch prating parret, that loves to heare himſelfe talke nothing but pedle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s French.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>Do you caknow Pye-corner Law, or Paſty-nook Cuſtomes?</p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>No not I: how ſhould I know the Law or cuſtome, who was ne<g ref="char:EOLhyphen"/>ver there or ever heard of it.</p>
+            </sp>
+            <pb facs="tcp:54786:5"/>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>Then her will tell her in rime, <hi>He that will woe a maid muſt cog, lye, and flatter, And he that will woe a widow muſt down with his breeches and at her.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Maudlin,</speaker>
+               <p>Out you Capricorniſh, Goatiſh, baudy filthy Welch-man, I ſcorne thy motion; I render thee odious in words; I could ſpit in thy face how dareſt thou to be ſo bold to aske a Gentlewoman ſuch a queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin..</speaker>
+               <p>Her hopes Mrs <hi>Maudlin</hi> that <hi>her</hi> is not ſo angry as <hi>her</hi> ſeemes to be, <hi>her</hi> hopes it is but from the teeth outward.</p>
+            </sp>
+            <sp>
+               <stage>
+                  <hi>Maudlins</hi> finall and laſt anſwer.</stage>
+               <p>MAſter <hi>Shinkin</hi> I am ſorry you have placed your love ſo unhappily, I muſt move in the obedience of a daughter, my father would not have me match to a Welch goat, and therefore I muſt tell you your ſuite is hopeleſſe, fruitleſſe, and <hi>I</hi> am glad that I am to goe into the Countrey, that I may not be troubled with your Welch complements compriſed with ſo much falſe Eng<g ref="char:EOLhyphen"/>liſh, and welch wit, which is no better then Engliſh nonſence.</p>
+            </sp>
+            <sp>
+               <stage>
+                  <hi>Shinkins</hi> anſwer and lamentation for the loſſe of his Sweet-heart <hi>Maudlin</hi>
+               </stage>
+               <p>SWeete <hi>Maudlin, Shinkin</hi> know not whether or no <hi>her</hi> ſhall live to ſuffer the injuries of <hi>her</hi> diſdaine; Has <hi>her</hi> ſpent all <hi>her</hi> wooing complements which her ſtudied with all <hi>her</hi> paines and diligence, to be ſcornfully rejected, refuſed and abuſed? <hi>Her</hi> now perceives, and that all women-kinde doe but put flouts and jeeres upon <hi>her</hi> Countrey-men for <hi>her</hi> bad languages and ex<g ref="char:EOLhyphen"/>preſſions of <hi>her</hi> affections; well <hi>Maudlin,</hi> let <hi>her</hi> now at <hi>her</hi> departing bee ſo kind and courteous unto <hi>her</hi> to let <hi>her</hi> imprint a kiſſe upon <hi>her</hi> lips in the way of ſalutations, and ſo farewell ſweet <hi>Maudlin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <stage>
+                  <hi>Maudlins</hi> anſwer.</stage>
+               <p>I Dare not, I am afraid your breath ſmells of toaſted cheeſe, farewell with<g ref="char:EOLhyphen"/>out a kiſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Shinkin.</speaker>
+               <p>One ſweet kiſſe ſweet <hi>Maudlin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Maudlin.</speaker>
+               <p>If you will needs kiſſe, take me about the middle and kiſſe the heavieſt end.</p>
+            </sp>
+            <sp>
+               <stage>
+                  <hi>Shinkins</hi> concluſion and reſolution.</stage>
+               <p>WEll, <hi>Her</hi> will in the abſence of ſweet <hi>Maudlin</hi> excuſe <hi>her</hi> cruelty, but not hang <hi>hee</hi> ſelfe, though ſhe be gone into the Countrey.</p>
+               <lg>
+                  <l>But her will ſeek her out and all paths tread,</l>
+                  <l>Till <hi>Shinkin</hi> be to <hi>Maudlin</hi> marryed.</l>
+               </lg>
+               <p>Was finde <hi>her</hi> I warrant <hi>her,</hi> and then have at <hi>her</hi> for a ſecond part of her complements and wooing languages, and this is <hi>Shinkins</hi> concluſions and Reſolution for this times.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:54786:5" rendition="simple:additions"/>
+            <pb facs="tcp:54786:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
